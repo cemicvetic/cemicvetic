@@ -4,11 +4,16 @@
 <img align="right" alt="Coding" width="400" src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif">
 
 
+
+
+
 - 🌱 I’m currently learning **Playwright**
 
 - 💬 Ask me about **Cypress, API**
 
 - 📫 How to reach me **cemicvetic@gmail.com**
+
+-  ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
