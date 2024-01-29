@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning  **Playwright*
+- 🌱 I’m currently learning  **Playwright**
 
 - 💬 Ask me about **Cypress, API**
 
