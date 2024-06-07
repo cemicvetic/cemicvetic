@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Cypress, API**
 
-- 📫 How to reach me **lanakom32@gmail.com @gmail.com**
+- 📫 How to reach me **lanakom32@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
