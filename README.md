@@ -42,7 +42,7 @@
 <p align="center"> 
 
 
-## 👨🏼‍💻 **Some of my latest projects**
+## 👩🏼‍💻 **Some of my latest projects**
 <br/>
 
 | Project                                                              | Description                                                                | Used Tools and Packages                                                                           |
