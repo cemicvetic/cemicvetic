@@ -47,6 +47,7 @@
 
 | Project                                                              | Description                                                                | Used Tools and Packages                                                                           |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| [Playwright Cucumber SauceDemo](https://github.com/yourusername/playwright-cucumber-saucedemo) | Automated tests for SauceDemo using Playwright & Cucumber | Playwright, Cucumber, TypeScript |
 | ![](.github/workflows/git-repository-line.svg) [UI-Tests-for-Ecommerce](https://github.com/cemicvetic/UI-Tests-for-Ecommerce)                       | Example of automated e2e tests                     |Cypress 12.17.0, TypeScript 5.0.4
 |![](.github/workflows/git-repository-line.svg) [E2E_Project_TypeScript](https://github.com/cemicvetic/E2E_Project_TypeScript)                       | Example of automated e2e tests                     |Cypress 13.6.3, TypeScript 5.4.5                                 |
 | ![](.github/workflows/git-repository-line.svg) [UI-Automated-Tests-for-CRM-Project](https://github.com/cemicvetic/UI-Tests-for-CRM-Project-TypeScript)       | Collection of 50+ UI automated tests based on using Cypress       | Cypress 13.8.1, TypeScript 5.4.5                                    |
