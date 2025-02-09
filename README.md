@@ -7,9 +7,11 @@
 
 
 
-- 🌱 I’m currently learning  **Playwright**
 
-- 💬 Ask me about **Cypress, API**
+
+
+
+- 💬 Ask me about **Playwright, Cypress, API**
 
 - 📫 How to reach me **lanakom32@gmail.com**
 
