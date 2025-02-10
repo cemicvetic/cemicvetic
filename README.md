@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lana</h1>
 <h3 align="center">Software tester who loves automation</h3>
 
-<img align="right" alt="Coding" width="400" src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif">
+
 
 
 
