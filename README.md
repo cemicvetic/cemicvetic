@@ -42,18 +42,19 @@
 <p align="center"> 
 
 
-## 👩🏼‍💻 **Some of my latest projects**
+## 👩🏼‍💻 **Some of my latest projects**  
 <br/>
 
-| Project                                                              | Description                                                                | Used Tools and Packages                                                                           |
-| ------------------------------------------------------------------------ | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| [Playwright Cucumber SauceDemo](https://github.com/yourusername/playwright-cucumber-saucedemo) | Automated tests for SauceDemo using Playwright & Cucumber | Playwright, Cucumber, TypeScript |
-| ![](.github/workflows/git-repository-line.svg) [UI-Tests-for-Ecommerce](https://github.com/cemicvetic/UI-Tests-for-Ecommerce)                       | Example of automated e2e tests                     |Cypress 12.17.0, TypeScript 5.0.4
-|![](.github/workflows/git-repository-line.svg) [E2E_Project_TypeScript](https://github.com/cemicvetic/E2E_Project_TypeScript)                       | Example of automated e2e tests                     |Cypress 13.6.3, TypeScript 5.4.5                                 |
-| ![](.github/workflows/git-repository-line.svg) [UI-Automated-Tests-for-CRM-Project](https://github.com/cemicvetic/UI-Tests-for-CRM-Project-TypeScript)       | Collection of 50+ UI automated tests based on using Cypress       | Cypress 13.8.1, TypeScript 5.4.5                                    |
-| ![](.github/workflows/git-repository-line.svg) [API-Automated-Tests-for-CRM-Project](https://github.com/cemicvetic/Testing-API-Automation-for-CRM-ClientBase-v5)     | The collection of 100+ REST API Automated Tests for CRM Project       | Supertest, Mocha, Chai, etc.                                    |
-| ![](.github/workflows/git-repository-line.svg) [API-Automated-Tests-for-Payment-project](https://github.com/cemicvetic/API-Automation-Tests-for-Paysis-project)     | The collection of 40+ REST API Automated Tests for Payment System Project        | Axios, Jest                                 |                                 |
-| ![](.github/workflows/git-repository-line.svg) [Postman-collection-for-CRM-Project](https://github.com/cemicvetic/CRM-ClientBase-v5-Postman-collection)     | Postman collection of more than 400 tests and scripts for CRM Project       | Postman                        |
+| Project | Description | Used Tools and Packages |
+|---------|------------|-------------------------|
+| [Playwright-Cucumber](https://github.com/cemicvetic/playwright-cucumber-tests) | Automated tests for SauceDemo using Playwright & Cucumber | Playwright, Cucumber, TypeScript |
+| [UI-Tests-for-Ecommerce](https://github.com/cemicvetic/UI-Tests-for-Ecommerce) | Example of automated E2E tests | Cypress 12.17.0, TypeScript 5.0.4 |
+| [E2E_Project_TypeScript](https://github.com/cemicvetic/E2E_Project_TypeScript) | Example of automated E2E tests | Cypress 13.6.3, TypeScript 5.4.5 |
+| [UI-Automated-Tests-for-CRM-Project](https://github.com/cemicvetic/UI-Tests-for-CRM-Project-TypeScript) | Collection of 50+ UI automated tests using Cypress | Cypress 13.8.1, TypeScript 5.4.5 |
+| [API-Automated-Tests-for-CRM-Project](https://github.com/cemicvetic/Testing-API-Automation-for-CRM-ClientBase-v5) | Collection of 100+ REST API automated tests for CRM Project | Supertest, Mocha, Chai |
+| [API-Automated-Tests-for-Payment-Project](https://github.com/cemicvetic/API-Automation-Tests-for-Paysis-project) | Collection of 40+ REST API automated tests for Payment System | Axios, Jest |
+| [Postman-Collection-for-CRM-Project](https://github.com/cemicvetic/CRM-ClientBase-v5-Postman-collection) | Postman collection of 400+ tests and scripts for CRM Project | Postman |
+
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
