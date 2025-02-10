@@ -33,7 +33,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cemicvetic&show_icons=true&locale=en" alt="cemicvetic" /></p>
 
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cemicvetic&" alt="cemicvetic" /></p> 
 
 <p  align="center">
